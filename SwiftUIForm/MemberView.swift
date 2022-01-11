@@ -15,6 +15,7 @@ struct MemberView: View {
                 MemberRow(member: member)
             }
         }
+        
     }
 }
 struct Member: Identifiable{
